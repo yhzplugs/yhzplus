@@ -1,0 +1,12 @@
+#\u5173\u95ED\u9ED8\u8BA4\u5B57\u7B26\u96C6\u7F16\u7801\u8FC7\u6EE4\u5668
+#server:
+#  servlet:
+#    encoding:
+#      enabled: false
+
+server:
+  servlet:
+    encoding:
+      enabled: true
+      charset: utf-8
+      force: true
